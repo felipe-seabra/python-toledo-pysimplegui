@@ -16,7 +16,7 @@ Para usar o projeto, siga os seguintes passos:
 2. Certifique-se de ter o Python 3 instalado em seu computador.
 3. Abra o terminal e navegue até o diretório onde o projeto está armazenado.
 4. Execute o comando pip install PySimpleGUI para instalar a biblioteca PySimpleGUI.
-5. Execute o comando python estoque_pysimplegui.py para iniciar o programa.
+5. Execute o comando python sistema.py para iniciar o programa.
 6. Use a interface gráfica para adicionar, atualizar, excluir itens ou exportar o estoque.
 ## Observações
 O arquivo de estoque é armazenado em formato JSON no arquivo estoque.json. Certifique-se de não excluí-lo acidentalmente, pois isso pode resultar na perda de todos os itens do estoque. Além disso, o arquivo de exportação é armazenado no diretório raiz do projeto com o nome estoque.txt. Certifique-se de verificar se o arquivo foi gerado com sucesso após a exportação.
